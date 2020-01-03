@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+.container {
+  width: 100%;
+  margin: 0px; }
+  .container-header {
+    background: url(../img/bg1.jpg) no-repeat top center;
+    background-size: cover;
+    text-align: center;
+    padding: 160px 0px 160px 0px; }
+    .container-header-logo {
+      width: 100%; }
+      .container-header-logo img {
+        width: 185px;
+        height: 160px; }
+    .container-header-scroll a i {
+      color: #fff;
+      font-size: 70px; }
+  .container #separator {
+    background: url("../img/parallax-bg.jpg"); }
+    .container #separator .container .midSection {
+      text-align: center; }
+      .container #separator .container .midSection .child {
+        display: inline-block; }
+        .container #separator .container .midSection .child .alignContent {
+          padding: 50px 50px;
+          margin: 10px 30px; }
+          .container #separator .container .midSection .child .alignContent i {
+            color: #fff; }
+          .container #separator .container .midSection .child .alignContent span {
+            color: #888; }
+
+footer {
+  background-color: #d430768c;
+  text-align: center;
+  padding: 50px 0 30px; }
+  footer .footNote {
+    color: #f8f8f8; }
+    footer .footNote a {
+      color: #fff;
+      text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
